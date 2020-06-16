@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 The idea was to create a navigation set-up that works well on small devices.   Later I will change it to also work well on the desktop.  There is a fixed header and footer as well as a slide-out sidenav.
 
-<img src="home.png" width="50">
+<img src="home1.png" width="50">
 
 ## Development server
 
