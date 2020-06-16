@@ -1,0 +1,19 @@
+mat-sidenav-container, mat-sidenav-content, mat-sidenav {
+  height: 100vh; // Component content fills entire verticle space
+}
+
+mat-sidenav {
+  width: 40vw; // Width sidenav takes up when open
+}
+
+.header {
+  margin-bottom: 8px; // Leave space at bottom of toolbar so elevation shadow effect will show
+}
+
+// Component content area
+.container {
+  height: 100vh; // Component content fills entire verticle space
+  overflow: auto; // Keeps header from scrolling away
+  padding: 10px; // Component conent padding around edges
+  margin-bottom: 50px; // Matches height of footer so can see all content when scrolling to bottom
+}
