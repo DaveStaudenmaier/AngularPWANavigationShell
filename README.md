@@ -2,7 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0 and Angular Material.
 
-The idea was to create a navigation set-up that works well on small devices.   Later I will change it to also work well on the desktop.  There is a fixed header and footer as well as a slide-out sidenav.
+The idea was to create a navigation set-up that works well on small devices.  There is a fixed header and footer as well as a slide-out sidenav.  
+
+The project is not configued with the web manifest or service worker.  The intention was to just show a possible navigation scheme for devices for a progressive web app.   
 
 <img src="home1.png" width="200">
 
