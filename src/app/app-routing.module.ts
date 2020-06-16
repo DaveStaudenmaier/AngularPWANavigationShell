@@ -1,7 +1,7 @@
-import { AboutComponent } from './about/about.component';
-import { MessagesComponent } from './messages/messages.component';
-import { ForumsComponent } from './forums/forums.component';
-import { HomeComponent } from './home/home.component';
+import { AboutComponent } from './features/about/about.component';
+import { MessagesComponent } from './features/messages/messages.component';
+import { ForumsComponent } from './features/forums/forums.component';
+import { HomeComponent } from './features/home/home.component';
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 

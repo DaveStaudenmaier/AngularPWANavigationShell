@@ -13,13 +13,15 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { HeaderMobileComponent } from './header-mobile/header-mobile.component';
-import { FooterMobileComponent } from './footer-mobile/footer-mobile.component';
-import { HomeComponent } from './home/home.component';
-import { ForumsComponent } from './forums/forums.component';
-import { MessagesComponent } from './messages/messages.component';
-import { SidenavComponent } from './sidenav/sidenav.component';
-import { AboutComponent } from './about/about.component';
+
+import { HeaderMobileComponent } from './navigation/header-mobile/header-mobile.component';
+import { FooterMobileComponent } from './navigation/footer-mobile/footer-mobile.component';
+import { SidenavComponent } from './navigation/sidenav/sidenav.component';
+
+import { HomeComponent } from './features/home/home.component';
+import { ForumsComponent } from './features/forums/forums.component';
+import { MessagesComponent } from './features/messages/messages.component';
+import { AboutComponent } from './features/about/about.component';
 
 @NgModule({
   declarations: [
