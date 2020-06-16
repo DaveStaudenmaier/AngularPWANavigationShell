@@ -1,6 +1,10 @@
 # Angular PWA Navigation Shell
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0 and Angular Material.
+
+The idea was to create a navigation set-up that works well on small devices.   Later I will change it to also work well on the desktop.  There is a fixed header and footer as well as a slide-out sidenav.
+
+![home](home1.png)
 
 ## Development server
 
