@@ -6,7 +6,7 @@ The idea was to create a navigation set-up that works well on small devices.  Th
 
 The project is not configured with the web manifest or service worker.  The intention was to just show a possible navigation scheme for devices for a progressive web app.   
 
-<img src="home1.jpg" width="200">
+<img src="home1.jpg" width="300">
 
 ## Development server
 
