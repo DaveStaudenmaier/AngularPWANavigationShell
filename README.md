@@ -10,7 +10,7 @@ The project is not configured with the web manifest or service worker.  The inte
 
 ## Blog
 
-Check out the associate blog for some commentary at [https://davestaudenmaier.github.io/pwa-navigation](https://davestaudenmaier.github.io/pwa-navigation)
+Check out the associate blog for some commentary at [http://dev-reboot.com/pwa-navigation/](http://dev-reboot.com/pwa-navigation/)
 
 ## Development server
 
