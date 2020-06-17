@@ -8,6 +8,10 @@ The project is not configured with the web manifest or service worker.  The inte
 
 <img src="home1.jpg" width="300">
 
+## Blog
+
+Check out the associate blog for some commentary at [https://davestaudenmaier.github.io/pwa-navigation](https://davestaudenmaier.github.io/pwa-navigation)
+
 ## Development server
 
 Clone the project to your local machine and run `npm install`.   Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
