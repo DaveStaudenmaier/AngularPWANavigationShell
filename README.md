@@ -8,9 +8,7 @@ The project is not configured with the web manifest or service worker.  The inte
 
 <img src="home1.jpg" width="300">
 
-## Blog
-
-Check out the associate blog for some commentary at [http://dev-reboot.com/pwa-navigation/](http://dev-reboot.com/pwa-navigation/)
+See my [blog](http://dev-reboot.com/pwa-navigation/) for an explanation.
 
 ## Development server
 
